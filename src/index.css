@@ -15,6 +15,27 @@ body {
   margin: 0;
 }
 
+.area{
+    width: 100%;
+}
+
+@media only screen and (min-width: 769px) {
+    .mobonly{
+        display: none!important;
+    }
+}
+
+@media only screen and (max-width: 769px) {
+    .deskonly{
+        display: none!important;
+    }
+
+    .area {right: 0px;left: 0;top: 0;bottom: 0;position: fixed;}
+}
+
+
+
+
 .circles{
     position: absolute;
     top: 0;
