@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-<img src="https://calculator.thetrinityweb.com.br/img/calculator.png" alt="Calculadora">
+<img src="https://thetrinityweb.com.br/outrossites/calculator/img/calculator.png" alt="Calculadora">
 
 > A simple calculator made with react!
 
